@@ -2,7 +2,7 @@
 
 +10 years in the market working as a **Software Enginner / Entrepreneur**, with the main objective of raising the quality of products always aligned with the Business.
 
-Currently I'm focused on good practices and quality in Javascript with React, React Native and NodeJS.
+Currently I'm focused in new software architectures, learning new development languages, best practices and try leading @missionbrasil to 🦄.
 
 The biggest challenge so far has been managing the Mission Brasil B2B2C platform, today with +60k registered people, +90 customers and +100,000 limits throughout the national territory. Using services such as AWS Lambda, SNS, RDS, EC2, we are managing to generate great results for our customers.
 
