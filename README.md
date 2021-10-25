@@ -1,10 +1,8 @@
 ## I'm a Eduardo Parucker 👋
 
-+10 years in the market working as a **Software Enginner / Entrepreneur**, with the main objective of raising the quality of products always aligned with the Business.
++10xp in the market working as a **Software Enginner / Entrepreneur**, with the main objective of raising the quality of products always aligned with the Business.
 
-Currently I'm focused in new software architectures, learning new development languages, best practices and try leading @missionbrasil to 🦄.
-
-The biggest challenge so far has been managing the Mission Brasil B2B2C platform, today with +60k registered people, +90 customers and +100,000 limits throughout the national territory. Using services such as AWS Lambda, SNS, RDS, EC2, we are managing to generate great results for our customers.
+Currently I'm focused in new software architectures, learning new development languages, best practices and try leading Mission Brasil to 🦄.
 
 My experiences as **Software Enginner / Entrepreneur** before this challenge were very enriching, I was Co-founder of 3 startups, Bringgers, Restaurantes Floripa and Reservando, in all of them I did Fullstack Development, it was the period when I failed the most as an entrepreneur which brought many lessons.
 
