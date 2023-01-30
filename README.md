@@ -1,6 +1,6 @@
 ## I'm a Eduardo Parucker 👋
 
-+10xp in the market working as a **Software Enginner / Entrepreneur**, with the main objective of raising the quality of products always aligned with the Business.
++14xp in the market working as a **Software Enginner / Entrepreneur**, with the main objective of raising the quality of products always aligned with the Business.
 
 Currently I'm focused in new software architectures, learning new development languages, best practices and try leading Mission Brasil to 🦄.
 
